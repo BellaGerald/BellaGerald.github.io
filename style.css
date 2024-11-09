@@ -100,3 +100,18 @@ p {
   flex-wrap: wrap;
 
 }
+
+.button1{
+  display:flex;
+  justify-content: center;
+
+}
+
+.center{
+  text-align: center;
+}
+
+.home{
+  position: relative;
+  margin-left: 5px;
+}
